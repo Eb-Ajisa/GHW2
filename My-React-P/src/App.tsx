@@ -1,7 +1,4 @@
 import { UserButton, CivicAuthProvider } from "@civic/auth/react";
-
-import Eco from './components/econt.tsx'
-import ComponentA from "./components/componentA.tsx";
 import Confirm from "./components/confirm.tsx";
 import './App.css'
 
